@@ -1,0 +1,14 @@
+E:\My\PublicManage\PublicManage\bin\Debug\netcoreapp2.1\PublicManage.deps.json
+E:\My\PublicManage\PublicManage\bin\Debug\netcoreapp2.1\PublicManage.runtimeconfig.json
+E:\My\PublicManage\PublicManage\bin\Debug\netcoreapp2.1\PublicManage.runtimeconfig.dev.json
+E:\My\PublicManage\PublicManage\bin\Debug\netcoreapp2.1\PublicManage.dll
+E:\My\PublicManage\PublicManage\bin\Debug\netcoreapp2.1\PublicManage.pdb
+E:\My\PublicManage\PublicManage\obj\Debug\netcoreapp2.1\PublicManage.csprojResolveAssemblyReference.cache
+E:\My\PublicManage\PublicManage\obj\Debug\netcoreapp2.1\PublicManage.csproj.CoreCompileInputs.cache
+E:\My\PublicManage\PublicManage\obj\Debug\netcoreapp2.1\PublicManage.RazorAssemblyInfo.cache
+E:\My\PublicManage\PublicManage\obj\Debug\netcoreapp2.1\PublicManage.RazorAssemblyInfo.cs
+E:\My\PublicManage\PublicManage\obj\Debug\netcoreapp2.1\PublicManage.AssemblyInfoInputs.cache
+E:\My\PublicManage\PublicManage\obj\Debug\netcoreapp2.1\PublicManage.AssemblyInfo.cs
+E:\My\PublicManage\PublicManage\obj\Debug\netcoreapp2.1\PublicManage.RazorTargetAssemblyInfo.cache
+E:\My\PublicManage\PublicManage\obj\Debug\netcoreapp2.1\PublicManage.dll
+E:\My\PublicManage\PublicManage\obj\Debug\netcoreapp2.1\PublicManage.pdb
